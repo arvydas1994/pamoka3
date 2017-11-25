@@ -1,0 +1,17 @@
+img {
+    border-radius: 50%;
+    border-style: solid;
+}
+.first {
+    width: 50%;
+    color: darkgray;
+}
+.btn {
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}

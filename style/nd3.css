@@ -1,0 +1,23 @@
+h1{
+    margin-left: 450px;
+}
+
+.first {
+    width: 35%;
+    border: solid 1px black;
+    background-color: darkseagreen;
+    padding: 30px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.spanstyle {
+    color: black;
+}
+.second {
+    width: 35%;
+    border: solid 1px black;
+    background-color: darkseagreen;
+    padding: 30px;
+    color: white;
+    font-family: 'Oswald', sans-serif
+}
